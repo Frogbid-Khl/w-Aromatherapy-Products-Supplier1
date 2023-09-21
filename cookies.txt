@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nicepage.com	TRUE	/	FALSE	1999999999	AdsParameters	?device=desktop&utm_page=/html5-template
+nicepage.com	TRUE	/	FALSE	1999999999	locale	en
+nicepage.com	TRUE	/	FALSE	1999999999	Upage	ab20wv4n3mvreo1xwyo40zvd
+nicepage.com	TRUE	/	FALSE	1999999999	lang	en
+nicepage.com	TRUE	/	FALSE	1999999999	ref	http://nicepage.com/html5-template/preview/aromatherapy-and-fitness-spa-195862?device=desktop
+
